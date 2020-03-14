@@ -4,6 +4,11 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## CycleGAN
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) Tensorflow 
 
+## DeOldify
+[**Image Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) DeOldify
+
+[**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) DeOldify
+
 ## Image/Data Processing
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) Peter Baylies
 
