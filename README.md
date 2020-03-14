@@ -19,4 +19,6 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 [**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) Derrick Schultz
 
 ## Superresolution
+[**ESRGAN**](https://github.com/dvschultz/ESRGAN/blob/master/ESRGAN.ipynb) Derrick Schultz
+
 [**SRFBN**](https://github.com/dvschultz/SRFBN_CVPR19/blob/master/SRFBN.ipynb) Derrick Schultz
