@@ -6,6 +6,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 ## StyleGAN
 [**StyleGAN2**](https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb) Derrick Schultz
+
 [**SWA Playground**](https://github.com/dvschultz/ai/blob/master/SWA_playground.ipynb) Derrick Schultz, based on Python Notebook by [@arfafax](https://github.com/arfafax/StyleGAN2_experiments/blob/master/StyleGAN2%20Network%20Interpolation.ipynb)
 
 ## Style Transfer
