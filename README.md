@@ -4,6 +4,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## CycleGAN
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) Tensorflow 
 
+## SinGAN
+[**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) Derrick Schultz
+
 ## StyleGAN
 [**StyleGAN2**](https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb) Derrick Schultz
 
@@ -12,5 +15,5 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## Style Transfer
 [**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) Derrick Schultz
 
-## SinGAN
-[**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) Derrick Schultz
+## Superresolution
+[**SRFBN**](https://github.com/dvschultz/SRFBN_CVPR19/blob/master/SRFBN.ipynb) Derrick Schultz
