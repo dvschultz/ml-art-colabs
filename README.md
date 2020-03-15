@@ -15,6 +15,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 [**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) DeOldify
 
+## First Order Motion Model
+[**First Order Motion**](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag) [Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin)
+
 ## Image/Data Processing
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) Peter Baylies
 
