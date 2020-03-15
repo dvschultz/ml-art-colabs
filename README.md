@@ -58,6 +58,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## Super Slomo
 [**Super Slomo**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
 
+## TwinGAN
+[**TwinGAN**](https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/TWINGAN_manu.ipynb) by [Manuel Romero](https://github.com/mrm8488/)
+
 # ML Text Colabs
 ## GPT-2
 [**GPT-2**](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) by [Martin Woolf](https://minimaxir.com/)
