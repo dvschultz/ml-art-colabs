@@ -43,6 +43,8 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 [**StyleGAN2**](https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb) by Derrick Schultz
 
+[**StyleGAN2**](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH) by Mikael Christensen
+
 [**SWA Playground**](https://github.com/dvschultz/ai/blob/master/SWA_playground.ipynb) by Derrick Schultz, based on Python Notebook by [@arfafax](https://github.com/arfafax/StyleGAN2_experiments/blob/master/StyleGAN2%20Network%20Interpolation.ipynb)
 
 [**WikiArt Example Generation**](https://github.com/pbaylies/stylegan2/blob/master/WikiArt%20Example%20Generation.ipynb) Peter Baylies
