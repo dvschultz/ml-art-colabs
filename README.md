@@ -1,4 +1,4 @@
-# ML Art Colabs
+# ML Visual Art Colabs
 A list of cool Colabs on Machine Learning Imagemaking or Art 
 
 ## 3D Ken Burns Effect
@@ -21,14 +21,8 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## First Order Motion Model
 [**First Order Motion**](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag) by [Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin)
 
-## GPT-2
-[**GPT-2**](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) by [Martin Woolf](https://minimaxir.com/)
-
 ## Image/Data Processing
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) by Peter Baylies
-
-## Magenta
-[**Generating Piano Music with Transformer**](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=QI5g-x4foZls) by Magenta
 
 ## MUNIT
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
@@ -61,3 +55,11 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 ## Super Slomo
 [**Super Slomo**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
+
+# ML Text Colabs
+## GPT-2
+[**GPT-2**](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) by [Martin Woolf](https://minimaxir.com/)
+
+# ML Audio Colabs
+## Magenta
+[**Generating Piano Music with Transformer**](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=QI5g-x4foZls) by Magenta
