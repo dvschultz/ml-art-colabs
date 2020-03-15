@@ -41,6 +41,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 ## Style Transfer
 [**Lucid**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) Google
+
 [**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) Derrick Schultz
 
 ## Superresolution
