@@ -37,6 +37,8 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz
 
 ## StyleGAN
+[**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
+
 [**StyleGAN Encoder Tutorial**](https://github.com/pbaylies/stylegan2/blob/master/StyleGAN_Encoder_Tutorial.ipynb) by Peter Baylies
 
 [**StyleGAN2**](https://github.com/dvschultz/ai/blob/master/StyleGAN2.ipynb) by Derrick Schultz
