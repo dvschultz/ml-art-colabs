@@ -27,6 +27,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## Image/Data Processing
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) by Peter Baylies
 
+## Magenta
+[**Generating Piano Music with Transformer**](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=QI5g-x4foZls) by Magenta
+
 ## MUNIT
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
