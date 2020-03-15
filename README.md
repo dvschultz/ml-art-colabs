@@ -1,8 +1,14 @@
 # ML Art Colabs
 A list of cool Colabs on Machine Learning Imagemaking or Art 
 
+## BigGan
+[**BigGan**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) Tensorflow Hub
+
 ## CycleGAN
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) Tensorflow 
+
+## DeepDream
+[**Minimal DeepDream Implementation**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb) Tensorflow
 
 ## DeOldify
 [**Image Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) DeOldify
@@ -28,6 +34,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 [**WikiArt Example Generation**](https://github.com/pbaylies/stylegan2/blob/master/WikiArt%20Example%20Generation.ipynb) Peter Baylies
 
 ## Style Transfer
+[**Lucid**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) Google
 [**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) Derrick Schultz
 
 ## Superresolution
