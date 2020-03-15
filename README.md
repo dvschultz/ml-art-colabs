@@ -51,6 +51,8 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## Superresolution
 [**ESRGAN**](https://github.com/dvschultz/ESRGAN/blob/master/ESRGAN.ipynb) by Derrick Schultz
 
+[**Image Superresolution**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/ISR_Prediction_Tutorial.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
+
 [**SRFBN**](https://github.com/dvschultz/SRFBN_CVPR19/blob/master/SRFBN.ipynb) by Derrick Schultz
 
 ## Super Slomo
