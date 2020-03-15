@@ -63,3 +63,6 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 # ML Audio Colabs
 ## Magenta
 [**Generating Piano Music with Transformer**](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=QI5g-x4foZls) by Magenta
+
+## Open Unmix
+[**Open Unmix**](https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ)
