@@ -74,3 +74,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 ## Open Unmix
 [**Open Unmix**](https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ)
+
+# Other Helpful Repositories
+[**dl-colab-notebooks**](https://github.com/tugstugi/dl-colab-notebooks) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
+
