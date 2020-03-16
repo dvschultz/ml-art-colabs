@@ -27,6 +27,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## MUNIT
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
+## Shape Matching GAN
+[**Shape Matching GAN**](https://github.com/dvschultz/ShapeMatchingGAN/blob/master/ShapeMatchingGAN.ipynb) by Derrick Schultz
+
 ## SinGAN
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz
 
