@@ -78,3 +78,5 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 # Other Helpful Repositories
 [**dl-colab-notebooks**](https://github.com/tugstugi/dl-colab-notebooks) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
 
+[**shared_colab_notebooks**](https://github.com/mrm8488/shared_colab_notebooks) by [Manuel Romero](https://github.com/mrm8488/)
+
