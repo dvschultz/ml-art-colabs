@@ -10,6 +10,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## CycleGAN
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) by Tensorflow 
 
+## DCGAN
+[**TF-GAN on TPUs**](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_on_tpus.ipynb) by Tensorflow
+
 ## DeepDream
 [**Minimal DeepDream Implementation**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb) by Tensorflow
 
