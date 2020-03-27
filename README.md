@@ -14,6 +14,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 [**TF-GAN on TPUs**](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_on_tpus.ipynb) by Tensorflow
 
 ## DeepDream
+[**DeepDream**](https://colab.research.google.com/drive/1DWcrN9WXni58MbddvlShX0wF_oeo8W_0) by Alex Mordvintsev
 [**Minimal DeepDream Implementation**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb) by Tensorflow
 
 ## DeOldify
