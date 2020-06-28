@@ -30,7 +30,7 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) by Peter Baylies
 
 ## Image-GPT
-[Image-GPT](https://gist.github.com/JonathanFly/eb61f0d31680e1b890f3a53fbaf31384) by [Jonathan Fly](https://gist.github.com/JonathanFly)
+[**Image-GPT**](https://gist.github.com/JonathanFly/eb61f0d31680e1b890f3a53fbaf31384) by [Jonathan Fly](https://gist.github.com/JonathanFly)
 
 ## MUNIT
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
