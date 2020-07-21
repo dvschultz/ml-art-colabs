@@ -4,6 +4,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## 3D Ken Burns Effect
 [**Ken Burns Effect**](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) by [Manuel Romero](https://github.com/mrm8488/)
 
+## BigBiGAN
+[**BigBiGAN**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/bigbigan_with_tf_hub.ipynb) by Tensorflow
+
 ## BigGan
 [**BigGan**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) by Tensorflow
 
