@@ -35,6 +35,10 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## Image-GPT
 [**Image-GPT**](https://gist.github.com/JonathanFly/eb61f0d31680e1b890f3a53fbaf31384) by [Jonathan Fly](https://gist.github.com/JonathanFly)
 
+## Lucid
+Lucid visualizes the networks of many convolutional neural nets
+[**Lucent**](https://colab.research.google.com/github/greentfrapp/lucent/blob/master/notebooks/tutorial.ipynb) - Lucent is a PyTorch variation of Lucid.
+
 ## MUNIT
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
