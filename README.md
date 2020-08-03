@@ -97,7 +97,8 @@ Lucid visualizes the networks of many convolutional neural nets
 ## Magenta
 [**Generating Piano Music with Transformer**](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=QI5g-x4foZls) by Magenta
 
-## Open Unmix
+## Music Source Separation
+
 [**Open Unmix**](https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ)
 
 # Other Helpful Repositories
