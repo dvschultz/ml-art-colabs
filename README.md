@@ -40,6 +40,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 
 ## Lucid
 Lucid visualizes the networks of many convolutional neural nets
+
+[**Lucid**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) by Google
+
 [**Lucent**](https://colab.research.google.com/github/greentfrapp/lucent/blob/master/notebooks/tutorial.ipynb) - Lucent is a PyTorch variation of Lucid.
 
 ## MUNIT
@@ -68,7 +71,6 @@ Lucid visualizes the networks of many convolutional neural nets
 [**WikiArt Example Generation**](https://github.com/pbaylies/stylegan2/blob/master/WikiArt%20Example%20Generation.ipynb) Peter Baylies
 
 ## Style Transfer
-[**Lucid**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) by Google
 
 [**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) by Derrick Schultz
 
