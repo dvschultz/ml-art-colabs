@@ -32,6 +32,9 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## First Order Motion Model
 [**First Order Motion**](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag) by [Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin)
 
+## FUNIT
+[**FUNIT**](https://colab.research.google.com/github/shaoanlu/fewshot-face-translation-GAN/blob/master/colab_demo.ipynb#scrollTo=2gvoYSeCoghg) by shaoanlu
+
 ## Image/Data Processing
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) by Peter Baylies
 
