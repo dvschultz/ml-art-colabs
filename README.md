@@ -87,8 +87,11 @@ Lucid visualizes the networks of many convolutional neural nets
 [**TwinGAN**](https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/TWINGAN_manu.ipynb) by [Manuel Romero](https://github.com/mrm8488/)
 
 ## Unpaired Image to Image Translation
-[**CUT**]() by Derrick Schultz
+
+[**CUT**](https://github.com/dvschultz/ml-art-colabs/blob/master/CUT.ipynb) by Derrick Schultz
+
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) by Tensorflow
+
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
 # ML Text Colabs
