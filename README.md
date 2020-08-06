@@ -13,9 +13,6 @@ A list of cool Colabs on Machine Learning Imagemaking or Art
 ## BigGan
 [**BigGan**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) by Tensorflow
 
-## CycleGAN
-[**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) by Tensorflow 
-
 ## DCGAN
 [**TF-GAN on TPUs**](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_on_tpus.ipynb) by Tensorflow
 
@@ -47,9 +44,6 @@ Lucid visualizes the networks of many convolutional neural nets
 [**Lucid**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) by Google
 
 [**Lucent**](https://colab.research.google.com/github/greentfrapp/lucent/blob/master/notebooks/tutorial.ipynb) - Lucent is a PyTorch variation of Lucid.
-
-## MUNIT
-[**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
 ## Object Mask Generation
 [**U Square Net**](https://github.com/dvschultz/ai/blob/master/U_2_Net.ipynb) by Derrick Schultz
@@ -91,6 +85,11 @@ Lucid visualizes the networks of many convolutional neural nets
 
 ## TwinGAN
 [**TwinGAN**](https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/TWINGAN_manu.ipynb) by [Manuel Romero](https://github.com/mrm8488/)
+
+## Unpaired Image to Image Translation
+[**CUT**]() by Derrick Schultz
+[**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) by Tensorflow
+[**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
 
 # ML Text Colabs
 ## GPT-2
