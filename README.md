@@ -112,7 +112,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 ## Music Source Separation
 
-[**Demucs**](https://github.com/dvschultz/ml-art-colabs/blob/master/Demucs.ipynb)
+[**Demucs**](https://github.com/dvschultz/ml-art-colabs/blob/master/Demucs.ipynb) • [Demo video](https://youtu.be/tHxsqFcx7gw) by Lia Coleman
 
 [**Open Unmix**](https://colab.research.google.com/drive/1mijF0zGWxN-KaxTnd0q6hayAlrID5fEQ)
 
