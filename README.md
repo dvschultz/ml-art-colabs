@@ -55,7 +55,7 @@ Lucid visualizes the networks of many convolutional neural nets
 [**Shape Matching GAN**](https://github.com/dvschultz/ShapeMatchingGAN/blob/master/ShapeMatchingGAN.ipynb) by Derrick Schultz
 
 ## SinGAN
-[**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz
+[**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
 ## StyleGAN
 [**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
