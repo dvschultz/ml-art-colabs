@@ -88,6 +88,10 @@ Lucid visualizes the networks of many convolutional neural nets
 ## Super Slomo
 [**Super Slomo**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
 
+## Texture Synthesis
+[**Texturize: Grass Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Grass.ipynb)
+[**Texturize: Gravel Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Gravel.ipynb)
+
 ## TwinGAN
 [**TwinGAN**](https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/TWINGAN_manu.ipynb) by [Manuel Romero](https://github.com/mrm8488/)
 
