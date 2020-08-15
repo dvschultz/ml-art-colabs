@@ -90,6 +90,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 ## Texture Synthesis
 [**Texturize: Grass Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Grass.ipynb)
+
 [**Texturize: Gravel Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Gravel.ipynb)
 
 ## TwinGAN
