@@ -5,7 +5,7 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 [**Ken Burns Effect**](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) by [Manuel Romero](https://github.com/mrm8488/) • [Demo Video](https://youtu.be/DYsfitr-FdY) by Lia Coleman
 
 ## 3D Photo Inpainting
-[**3D Photography using Context-aware Layered Depth Inpainting**](https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM__YX3Bz)
+[**3D Photography using Context-aware Layered Depth Inpainting**](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/3D_Photo_Inpainting.ipynb)
 
 ## BigBiGAN
 [**BigBiGAN**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/bigbigan_with_tf_hub.ipynb) by Tensorflow
