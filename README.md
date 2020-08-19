@@ -58,6 +58,8 @@ Lucid visualizes the networks of many convolutional neural nets
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
 ## StyleGAN
+[**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) * [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
+
 [**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
 
 [**StyleGAN Encoder Tutorial**](https://github.com/pbaylies/stylegan2/blob/master/StyleGAN_Encoder_Tutorial.ipynb) by Peter Baylies
