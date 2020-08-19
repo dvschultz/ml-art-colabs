@@ -57,10 +57,6 @@ Lucid visualizes the networks of many convolutional neural nets
 ## SinGAN
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
-## StarGAN
-
-[**StarGAN v2 PyTorch**](https://github.com/dvschultz/ml-art-colabs/blob/master/StarGAN_v2_pytorch.ipynb)
-
 ## StyleGAN
 [**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
 
@@ -109,6 +105,8 @@ Lucid visualizes the networks of many convolutional neural nets
 [**CycleGAN**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=ITZuApL56Mny) by Tensorflow
 
 [**MUNIT**](https://github.com/dvschultz/MUNIT/blob/master/MUNIT.ipynb) by Derrick Schultz
+
+[**StarGAN v2 PyTorch**](https://github.com/dvschultz/ml-art-colabs/blob/master/StarGAN_v2_pytorch.ipynb)
 
 # ML Text Colabs
 ## GPT-2
