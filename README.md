@@ -59,10 +59,10 @@ Lucid visualizes the networks of many convolutional neural nets
 
 ## StarGAN
 
-[**StarGAN v2 PyTorch](https://github.com/dvschultz/ml-art-colabs/blob/master/StarGAN_v2_pytorch.ipynb)
+[**StarGAN v2 PyTorch**](https://github.com/dvschultz/ml-art-colabs/blob/master/StarGAN_v2_pytorch.ipynb)
 
 ## StyleGAN
-[**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) * [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
+[**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
 
 [**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
 
