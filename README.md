@@ -70,7 +70,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**StyleGAN2**](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH) by Mikael Christensen
 
-[**SWA Playground**](https://github.com/dvschultz/ai/blob/master/SWA_playground.ipynb) by Derrick Schultz, based on Python Notebook by [@arfafax](https://github.com/arfafax/StyleGAN2_experiments/blob/master/StyleGAN2%20Network%20Interpolation.ipynb)
+[**SWA Playground**](https://github.com/dvschultz/ai/blob/master/SWA_playground.ipynb) by [@arfafax](https://github.com/arfafax/StyleGAN2_experiments/blob/master/StyleGAN2%20Network%20Interpolation.ipynb)
 
 [**WikiArt Example Generation**](https://github.com/pbaylies/stylegan2/blob/master/WikiArt%20Example%20Generation.ipynb) Peter Baylies
 
