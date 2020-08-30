@@ -24,7 +24,7 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 ## DeOldify
 [**Image Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) by DeOldify
 
-[**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) b y DeOldify
+[**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) by DeOldify
 
 ## First Order Motion Model
 [**First Order Motion**](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag) by [Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin)
