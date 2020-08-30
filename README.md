@@ -59,6 +59,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 ## StyleGAN
 [**Flesh Digressions**](https://github.com/dvschultz/ml-art-colabs/blob/master/flesh_digressions.ipynb) Loops of the constant and style layers • [Demo Video](https://www.youtube.com/watch?v=zRN1kP_lBY8)
+
 [**GanSpace**](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Ganspace_S2DD.ipynb) Feature detection using PCA • [Demo Video](https://youtu.be/fCI3wX38Ong?t=1340)
 
 [**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
