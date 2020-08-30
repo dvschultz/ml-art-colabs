@@ -58,9 +58,11 @@ Lucid visualizes the networks of many convolutional neural nets
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
 ## StyleGAN
+[**GanSpace**](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Ganspace_S2DD.ipynb) Feature detection using PCA. [Demo Video](https://youtu.be/fCI3wX38Ong?t=1340)
+
 [**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
 
-[**Neetwork Blending**](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) by [Justin Pinkney](https://github.com/justinpinkney/)
+[**Network Blending**](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) by [Justin Pinkney](https://github.com/justinpinkney/)
 
 [**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
 
