@@ -46,7 +46,7 @@ Lucid visualizes the networks of many convolutional neural nets
 [**Lucent**](https://colab.research.google.com/github/greentfrapp/lucent/blob/master/notebooks/tutorial.ipynb) - Lucent is a PyTorch variation of Lucid.
 
 ## Next Frame Prediction
-[**Next Frame Prediction with Pix2PixHD**](https://github.com/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb) • [Training Demo Video](https://www.youtube.com/watch?v=Gry1J3JhTP0)
+[**Next Frame Prediction with Pix2PixHD**](https://github.com/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb) • [Training Demo Video](https://www.youtube.com/watch?v=Gry1J3JhTP0) • [Video Generation Demo](https://youtu.be/pqVkLaBnTKI)
 
 ## Object Mask Generation
 [**U Square Net**](https://github.com/dvschultz/ai/blob/master/U_2_Net.ipynb) by Derrick Schultz
