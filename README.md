@@ -64,7 +64,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
 
-[**Network Blending**](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) by [Justin Pinkney](https://github.com/justinpinkney/)
+[**Network Blending**](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) by [Justin Pinkney](https://github.com/justinpinkney/) • [Demo Video](https://youtu.be/K5Tu-XHwaAo)
 
 [**StyleGAN Paintings (StyleGAN1)**](https://colab.research.google.com/drive/1cFKK0CBnev2BF8z9BOHxePk7E-f7TtUi)
 
