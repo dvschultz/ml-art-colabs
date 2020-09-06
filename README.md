@@ -62,6 +62,8 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**GanSpace**](https://github.com/dvschultz/Make-ML-Art-with-Google-Colab/blob/master/Ganspace_S2DD.ipynb) Feature detection using PCA • [Demo Video](https://youtu.be/fCI3wX38Ong?t=1340)
 
+[**Barycentric Cross-Network Interpolation with different layer interpolation rates**](https://colab.research.google.com/drive/1FwOYqtU0kVYDwHrddFKBhDKcs0jJ_zuK?usp=sharing) by [@arfafax](https://github.com/arfafax/)
+
 [**Network Bending**](https://github.com/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb) • [Demo Video](https://www.youtube.com/watch?v=pSo-aLWTn14)
 
 [**Network Blending**](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) by [Justin Pinkney](https://github.com/justinpinkney/) • [Demo Video](https://youtu.be/K5Tu-XHwaAo)
