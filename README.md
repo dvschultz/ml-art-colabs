@@ -48,6 +48,9 @@ Lucid visualizes the networks of many convolutional neural nets
 ## Next Frame Prediction
 [**Next Frame Prediction with Pix2PixHD**](https://github.com/dvschultz/ml-art-colabs/blob/master/Pix2PixHD_Next_Frame_Prediction.ipynb) • [Training Demo Video](https://www.youtube.com/watch?v=Gry1J3JhTP0) • [Video Generation Demo](https://youtu.be/pqVkLaBnTKI)
 
+## Objest Detection
+[**YOLO-v5**](https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ) by Ultralytics
+
 ## Object Mask Generation
 [**U Square Net**](https://github.com/dvschultz/ai/blob/master/U_2_Net.ipynb) by Derrick Schultz
 
