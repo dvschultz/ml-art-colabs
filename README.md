@@ -101,6 +101,9 @@ Lucid visualizes the networks of many convolutional neural nets
 ## Super Slomo
 [**Super Slomo**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
 
+## Text-to-Image Generation
+[**Big Sleep**](https://github.com/dvschultz/ml-art-colabs/blob/master/The_Big_Sleep_BigGANxCLIP.ipynb) (BigGAN controlled by CLIP) by Ryan Murdock • [Demo Video](https://www.youtube.com/watch?v=_TIQtr8gNJQ&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=28)
+
 ## Texture Synthesis
 [**Texturize: Grass Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Grass.ipynb) • [Demo Video](https://youtu.be/tRHhZQ46XUU)
 
