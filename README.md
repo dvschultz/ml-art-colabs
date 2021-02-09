@@ -17,7 +17,7 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 [**TF-GAN on TPUs**](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_on_tpus.ipynb) by Tensorflow
 
 ## DeepDream
-[**DeepDream**](https://colab.research.google.com/drive/1DWcrN9WXni58MbddvlShX0wF_oeo8W_0) by Alex Mordvintsev
+[**https://github.com/dvschultz/ml-art-colabs/blob/master/deepdream.ipynb**](https://colab.research.google.com/drive/1DWcrN9WXni58MbddvlShX0wF_oeo8W_0) by Alex Mordvintsev • [Demo Video](https://www.youtube.com/watch?v=MvOI_u0khTs&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=5)
 
 [**Minimal DeepDream Implementation**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb) by Tensorflow
 
