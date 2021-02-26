@@ -87,7 +87,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**Lucid 2D Style Transfer**](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb) by Google
 
-[**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) by Derrick Schultz
+[**Neural Style TF**](https://github.com/dvschultz/ai/blob/master/neural_style_tf.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/YyB5yzbZuc8?t=1183)
 
 ## Superresolution
 [**ESRGAN**](https://github.com/dvschultz/ESRGAN/blob/master/ESRGAN.ipynb) by Derrick Schultz
