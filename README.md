@@ -2,7 +2,7 @@
 A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes 
 
 ## 3D Ken Burns Effect
-[**Ken Burns Effect**](https://colab.research.google.com/drive/1hxx4iSuAOyeI2gCL54vQkpEuBVrIv1hY) by [Manuel Romero](https://github.com/mrm8488/) • [Demo Video](https://youtu.be/DYsfitr-FdY) by Lia Coleman
+[**Ken Burns Effect**](https://github.com/dvschultz/ml-art-colabs/blob/master/3D_Ken_Burns_multiple.ipynb) by [Manuel Romero](https://github.com/mrm8488/) • [Demo Video](https://youtu.be/DYsfitr-FdY) by Lia Coleman
 
 ## 3D Photo Inpainting
 [**3D Photography using Context-aware Layered Depth Inpainting**](https://github.com/dvschultz/ml-art-colabs/blob/master/3D_Photo_Inpainting.ipynb) • [Demo Video](https://youtu.be/y3noI8fquLo)
