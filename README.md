@@ -98,8 +98,11 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**SR Zoo**](https://github.com/dvschultz/ai/blob/master/Super_Resolution_Zoo.ipynb) ported to Colab by Derrick Schultz
 
-## Super Slomo
+## Slow Motions
+[**RIFE**](https://github.com/dvschultz/ml-art-colabs/blob/master/RIFE.ipynb) by Derrick Schultz (modified from [Towards Data Science article](https://towardsdatascience.com/high-quality-slow-motion-videos-in-5-minutes-with-deep-learning-1ed526665ef))
+
 [**Super Slomo**](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SuperSloMo.ipynb) by [Erdene-Ochir Tuguldur](https://github.com/tugstugi)
+
 
 ## Text-to-Image Generation
 [**Big Sleep**](https://github.com/dvschultz/ml-art-colabs/blob/master/The_Big_Sleep_BigGANxCLIP.ipynb) (BigGAN controlled by CLIP) by Ryan Murdock • [Demo Video](https://www.youtube.com/watch?v=_TIQtr8gNJQ&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=28)
