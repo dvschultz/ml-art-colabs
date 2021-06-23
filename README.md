@@ -13,6 +13,13 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 ## BigGan
 [**BigGan**](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb) by Tensorflow
 
+## Colorization
+[**Image Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) by DeOldify
+
+[**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) by DeOldify
+
+[**Coltran**](https://github.com/dvschultz/ml-art-colabs/blob/master/Coltran.ipynb) by Google Brain
+
 ## DCGAN
 [**TF-GAN on TPUs**](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_on_tpus.ipynb) by Tensorflow
 
@@ -21,10 +28,7 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 
 [**Minimal DeepDream Implementation**](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb) by Tensorflow
 
-## DeOldify
-[**Image Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) by DeOldify
 
-[**Video Colorizer**](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) by DeOldify
 
 ## First Order Motion Model
 [**First Order Motion**](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=UCMFMJV7K-ag) by [Aliaksandr Siarohin](https://github.com/AliaksandrSiarohin)
