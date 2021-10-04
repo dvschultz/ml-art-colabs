@@ -113,6 +113,8 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**Big Sleep**](https://github.com/dvschultz/ml-art-colabs/blob/master/The_Big_Sleep_BigGANxCLIP.ipynb) (BigGAN controlled by CLIP) by Ryan Murdock • [Demo Video](https://www.youtube.com/watch?v=_TIQtr8gNJQ&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=28)
 
+[**Quick CLIP Guided Diffusion**](https://colab.research.google.com/drive/1FuOobQOmDJuG7rGsMWfQa883A9r4HxEO?usp=sharing) Fast CLIP/Guided Diffusion image generation • by [Katherine Crowson](https://github.com/crowsonkb), [Daniel Russell](https://github.com/russelldc), et al.
+
 ## Texture Synthesis
 [**Texturize: Grass Demo**](https://github.com/photogeniq/texturize/blob/master/examples/Demo_Grass.ipynb) • [Demo Video](https://youtu.be/tRHhZQ46XUU)
 
