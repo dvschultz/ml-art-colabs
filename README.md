@@ -115,6 +115,8 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**Quick CLIP Guided Diffusion**](https://colab.research.google.com/drive/1FuOobQOmDJuG7rGsMWfQa883A9r4HxEO?usp=sharing) Fast CLIP/Guided Diffusion image generation • by [Katherine Crowson](https://github.com/crowsonkb), [Daniel Russell](https://github.com/russelldc), et al.
 
+[**Zoetrope 5.5**](https://colab.research.google.com/drive/1gkFHVBnmGMqUOvWd7Ua6dyHM7_ViwITP) CLIP-VQGAN tool by [bearsharktopus](https://www.patreon.com/bearsharktopus)
+
 ## Texture Synthesis
 
 [**Neural Cellular Automata**](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_tf2.ipynb) by Alex Mordvitsev
