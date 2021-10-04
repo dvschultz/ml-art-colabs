@@ -64,7 +64,7 @@ Lucid visualizes the networks of many convolutional neural nets
 ## SinGAN
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
-[**SinGAN Distortions**]() by duskvirkus, inspired by the [Yuma Kishi's Studies of Collage of Paintings for Humanity](https://obake2ai.com/studies-of-collage-of-paintings-for-humanity)
+[**SinGAN Distortions**](https://github.com/dvschultz/ml-art-colabs/blob/master/StyleGAN2_activations_and_pca_projection.ipynb) by [duskvirkus](https://github.com/duskvirkus), inspired by the [Yuma Kishi's Studies of Collage of Paintings for Humanity](https://obake2ai.com/studies-of-collage-of-paintings-for-humanity)
 
 ## StyleGAN
 [**Flesh Digressions**](https://github.com/dvschultz/ml-art-colabs/blob/master/flesh_digressions.ipynb) Loops of the constant and style layers • [Demo Video](https://www.youtube.com/watch?v=zRN1kP_lBY8)
