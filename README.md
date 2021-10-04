@@ -109,6 +109,8 @@ Lucid visualizes the networks of many convolutional neural nets
 
 
 ## Text-to-Image Generation
+[**Attn-GAN**](https://github.com/dvschultz/ml-art-colabs/blob/master/attn_gan.ipynb) The OG text-to-image generator • notebook by Derrick Schultz
+
 [**Big Sleep**](https://github.com/dvschultz/ml-art-colabs/blob/master/The_Big_Sleep_BigGANxCLIP.ipynb) (BigGAN controlled by CLIP) by Ryan Murdock • [Demo Video](https://www.youtube.com/watch?v=_TIQtr8gNJQ&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=28)
 
 ## Texture Synthesis
