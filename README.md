@@ -64,7 +64,7 @@ Lucid visualizes the networks of many convolutional neural nets
 ## SinGAN
 [**SinGAN**](https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb) by Derrick Schultz • [Demo Video](https://youtu.be/ukGmnVuYL84)
 
-[**SinGAN Distortions**](https://github.com/dvschultz/ml-art-colabs/blob/master/StyleGAN2_activations_and_pca_projection.ipynb) by [duskvirkus](https://github.com/duskvirkus), inspired by the [Yuma Kishi's Studies of Collage of Paintings for Humanity](https://obake2ai.com/studies-of-collage-of-paintings-for-humanity)
+[**SinGAN Distortions**](https://github.com/dvschultz/ml-art-colabs/blob/master/SinGAN_distortions.ipynb) by [duskvirkus](https://github.com/duskvirkus), inspired by the [Yuma Kishi's Studies of Collage of Paintings for Humanity](https://obake2ai.com/studies-of-collage-of-paintings-for-humanity)
 
 ## StyleGAN
 [**Flesh Digressions**](https://github.com/dvschultz/ml-art-colabs/blob/master/flesh_digressions.ipynb) Loops of the constant and style layers • [Demo Video](https://www.youtube.com/watch?v=zRN1kP_lBY8)
@@ -89,7 +89,7 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**WikiArt Example Generation**](https://github.com/pbaylies/stylegan2/blob/master/WikiArt%20Example%20Generation.ipynb) Peter Baylies
 
-[**StyleGAN2 Activations and PCA Projection**]() by duskvirkus, Look at lower network levels of SG2 generator.
+[**StyleGAN2 Activations and PCA Projection**](https://github.com/dvschultz/ml-art-colabs/blob/master/StyleGAN2_activations_and_pca_projection.ipynb) by duskvirkus, Look at lower network levels of SG2 generator.
 
 ## Style Transfer
 
