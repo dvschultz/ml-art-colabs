@@ -117,6 +117,8 @@ Lucid visualizes the networks of many convolutional neural nets
 
 [**Big Sleep**](https://github.com/dvschultz/ml-art-colabs/blob/master/The_Big_Sleep_BigGANxCLIP.ipynb) (BigGAN controlled by CLIP) by Ryan Murdock • [Demo Video](https://www.youtube.com/watch?v=_TIQtr8gNJQ&list=PLWuCzxqIpJs9aFmKVP2I9_Y_23BcGk8ZE&index=28)
 
+[**Disco Diffusion 4.1**](https://colab.research.google.com/drive/1sHfRn5Y0YKYKi1k-ifUSBFRNJ8_1sa39) by [SOMNAI](https://twitter.com/Somnai_dreams) • [Demo/Tutorial]https://youtu.be/Dx2G940Pao8
+
 [**Quick CLIP Guided Diffusion**](https://colab.research.google.com/drive/1FuOobQOmDJuG7rGsMWfQa883A9r4HxEO?usp=sharing) Fast CLIP/Guided Diffusion image generation • by [Katherine Crowson](https://github.com/crowsonkb), [Daniel Russell](https://github.com/russelldc), et al.
 
 [**S2ML Art Generator**](https://github.com/justin-bennington/S2ML-Art-Generator/blob/main/S2ML_Art_Generator.ipynb) by [Justin Bennington](https://github.com/justin-bennington)
