@@ -37,9 +37,13 @@ A list of cool Colabs on Machine Learning Imagemaking or other artistic purposes
 [**FUNIT**](https://colab.research.google.com/github/shaoanlu/fewshot-face-translation-GAN/blob/master/colab_demo.ipynb#scrollTo=2gvoYSeCoghg) by shaoanlu
 
 ## Image/Data Processing
+
 [**Process WikiArt Dataset**](https://github.com/pbaylies/stylegan2/blob/master/Process%20WikiArt%20Dataset.ipynb) by Peter Baylies
 
-## Image-GPT
+## Image Generators
+
+[**Looking Glass 1.1**](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G) by [bearsharktopus](https://www.patreon.com/bearsharktopus) • [Tutorial](https://youtu.be/37_Zjreghw4)
+
 [**Image-GPT**](https://gist.github.com/JonathanFly/eb61f0d31680e1b890f3a53fbaf31384) by [Jonathan Fly](https://gist.github.com/JonathanFly)
 
 ## Lucid
